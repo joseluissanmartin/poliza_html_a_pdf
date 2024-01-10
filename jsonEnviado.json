@@ -1,0 +1,50 @@
+{
+  "fecha de cotizacion": "10-05-2022",
+  "nombre": "jose luis san martin castillo",
+  "rut": "24445280-9",
+  "sexo": "0",
+  "fecha de nacimiento": "05-04-1992",
+  "edad": 30,
+  "telefono": 953166083,
+  "correo electronico": "d.flemingblemith@gmail.com",
+  "domicilio": "Simpson 246, 105 246",
+  "comuna": "Quilpué",
+  "sistema de salud previsional": 1,
+  "forma de pago reembolso": 1,
+  "banco": 1,
+  "tipo de cuenta": 1,
+  "numero de cuenta": 123,
+  "periodicidad de pago": "mensual",
+  "plan seleccionado": "LOW COST",
+  "numero de asegurados": 1,
+  "primaNetaTotal": 0.694,
+  "iva": 0.132,
+  "primaBrutaToltal": 0.826,
+  "tabla asegurados dependientes": [
+    {
+      "rutCarga": 12621615,
+      "cargaDv": "7",
+      "apellidoPaternoCarga": "bauman",
+      "apellidoMaternoCarga": "arriagada",
+      "nombreCarga": "rodolfo",
+      "fechaNacimientoCarga": "19740426",
+      "relacionCarga": 6,
+      "sexoCarga": "0",
+      "institucionSaludCarga": 1,
+      "preexistencias": [
+        {
+          "fechaDiagnosticoCarga": "20220510",
+          "diagnosticoAltaCarga": "Cance2r Carga"
+        },
+        {
+          "fechaDiagnosticoCarga": "20220511",
+          "diagnosticoAltaCarga": "Canc34  Carga"
+        }
+      ]
+    }
+  ],
+  "tabla declaracion de salud": [
+    { "fechaDiagnostico": "20220510", "diagnosticoAlta": "Cance2r" },
+    { "fechaDiagnostico": "20220511", "diagnosticoAlta": "Canc34" }
+  ]
+}
